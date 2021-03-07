@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"OpenFoodFacts "</string>
+    <string name="nutritional_facts_title">Nutritional markers for 100g</string>
+    <string name="nutritional_facts_gras" translatable="false">%1$s of saturated fatty acids \n %2%s</string>
+    <string name="nutritional_facts_sugars" translatable="false">%1$s de sucres\n%2%s</string>
+    <string name="nutritional_facts_salt" translatable="false">%1$s de sel\n%2%s</string>
+    <string name="nutritional_facts_fat">%1$s of Fat / Lipids  %2%s</string>
+    <string name="tab_fiche" translatable="false">Fiche</string>
+    <string name="tab_nutrition" translatable="false">Nutrition</string>
+    <string name="tab_tableau" translatable="false">Tableau</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Comparateur</string>
+    <string name="nutritional_facts_title">Repères nutritionels pour 100g</string>
+    <string name="nutritional_facts_fat">%1$s de Matières grasses / Lipides   %2%s</string>
+</resources>
